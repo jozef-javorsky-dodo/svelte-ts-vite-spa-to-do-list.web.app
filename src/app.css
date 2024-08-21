@@ -1,0 +1,14 @@
+* {
+  font-family: cursive !important;
+  font-weight: 900 !important;
+}
+
+body {
+  overflow-y: auto;
+  overflow-x: auto;
+  background: rgb(141, 177, 110);
+}
+
+.line-through {
+  text-decoration: line-through;
+}
